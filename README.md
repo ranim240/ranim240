@@ -1,4 +1,6 @@
  Hey, I’m Ranim 👋
+
+ 
 👩‍💻 I’m a computer engineering student passionate about technology, coding, and solving real-world problems.
 
 🌱 I’m currently learning full-stack web development and exploring AI and machine learning.
