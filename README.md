@@ -1,11 +1,10 @@
  Hey, I’m Ranim 👋
 
- 
-👩‍💻 I’m a computer engineering student passionate about technology, coding, and solving real-world problems.
+I’m a Computer Engineering student passionate about coding, technology, and building solutions that solve real-world problems.
 
-🌱 I’m currently learning full-stack web development and exploring AI and machine learning.
+I’m currently mastering full-stack web development and exploring AI and machine learning to expand my skills.
 
-💞️ I’m looking to collaborate on open-source projects, tech for social good, or anything that helps me grow as a developer.
+I enjoy contributing to open-source projects, working on tech for social good, and collaborating on innovative ideas that help me grow as a developer.
 
-📫 You can reach me at: khairallahranim@gmail.com or connect on .....
+You can reach me at khairallahranim@gmail.com or via www.linkedin.com/in/ranim-khairallah-0b340831a
 
